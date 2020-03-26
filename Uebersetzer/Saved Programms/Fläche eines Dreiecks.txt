@@ -1,0 +1,30 @@
+Schreib "Gib eine Kantenlänge ein" auf
+
+Erstelle eine Zahl mit dem Namen Kante1 mit dem Wert Mensch Zahl Geschreibsel
+
+Schreib "Gib noch eine Kantenlänge ein" auf
+
+Erstelle eine Zahl mit dem Namen Kante2 mit dem Wert Mensch Zahl Geschreibsel
+
+Schreib "Gib noch eine Kantenlänge ein" auf
+
+Erstelle eine Zahl mit dem Namen Kante3 mit dem Wert Mensch Zahl Geschreibsel
+
+Erstelle eine Zahl mit dem Namen Sum mit dem Wert (Kante1 und Kante2 und Kante3) geteilt durch 2
+
+Erstelle eine Zahl mit dem Namen ASqr mit dem Wert Sum  mal (Sum minus Kante1) mal (Sum minus Kante2) mal (Sum minus Kante3)
+
+Erstelle eine Zahl mit dem Namen X mit dem Wert ASqr geteilt durch 2
+
+Erstelle eine Zahl mit dem Namen Zähler mit dem Wert 0
+
+Solange Zähler nicht das Gleiche wie X ist Wiederhole
+
+Gib Zähler den Wert X
+
+Gib X den Wert 0.5 mal (X und ASqr geteilt durch X) 
+
+bis hierher
+
+Schreib "Der Flächeninhalt ist " und X auf
+

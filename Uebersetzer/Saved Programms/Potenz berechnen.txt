@@ -1,0 +1,37 @@
+Schreib "Gib eine Zahl ein" auf
+
+Erstelle eine Zahl mit dem Namen Koeff mit dem Wert Mensch Zahl Geschreibsel
+
+Schreib "Gib einen Exponent ein" auf
+
+Erstelle eine Zahl mit dem Namen Exp mit dem Wert Mensch Zahl Geschreibsel
+
+Erstelle eine Zahl mit dem Namen Ergebnis mit dem Wert Koeff
+
+Solange Exp größer als 1 ist Wiederhole
+
+Gib Ergebnis den Wert Ergebnis mal Koeff
+
+Gib Exp den Wert Exp minus 1
+
+bis hierher
+
+Falls Exp gleich wie 0 ist Gib Ergebnis den Wert 1
+
+Falls Exp kleiner wie 0 ist Mach folgendes
+
+Gib Exp den Wert -Exp
+
+Solange Exp größer als 1 ist Wiederhole
+
+Gib Ergebnis den Wert Ergebnis mal Koeff
+
+Gib Exp den Wert Exp minus 1
+
+bis hierher
+
+Gib Ergebnis den Wert 1 geteilt durch Ergebnis 
+
+bis hierher
+
+Schreib "Ergibt: " und Ergebnis auf

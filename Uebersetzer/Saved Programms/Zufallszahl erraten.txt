@@ -1,0 +1,17 @@
+Erstelle eine Zahl mit dem Namen Ziel mit dem Wert Zufällig
+
+Schreib "Rate eine Zahl" auf
+
+Erstelle eine Zahl mit dem Namen Raten mit dem Wert Mensch Zahl Geschreibsel
+
+Solange Raten nicht das Gleiche wie Ziel ist Wiederhole
+
+Falls Raten kleiner als Ziel ist Schreib "Meine Zahl ist größer!" auf
+Ansonsten Schreib "Meine Zahl ist kleiner!" auf
+
+Gib Raten den Wert Mensch Zahl Geschreibsel
+
+bis hierher
+
+Schreib "Yeah! Du hast meine Zahl erraten!" auf
+

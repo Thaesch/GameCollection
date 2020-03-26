@@ -1,0 +1,15 @@
+Erstelle ein Objekt mit dem Namen Hannes
+Erstelle ein Objekt mit dem Namen Maria
+Erstelle ein Objekt mit dem Namen Haustier
+
+Haustier hat ein Wort mit dem Namen Spitzname mit dem Wert ""
+
+Hannes hat ein Haustier mit dem Namen Hund
+Maria hat ein Haustier mit dem Namen Vogel
+
+Hannes sein Hund soll Spitzname den Wert "Fido" geben
+Maria ihr Vogel soll Spitzname den Wert "Jaques" geben
+
+Schreib Hannes sein Hund sein Spitzname auf
+Schreib Maria ihr Vogel sein Spitzname auf
+

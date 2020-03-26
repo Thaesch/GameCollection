@@ -1,0 +1,77 @@
+Erstelle eine Zahl mit dem Namen Eingabe
+
+Erstelle eine Zahl mit dem Namen RechenEingabe
+
+Erstelle eine Zahl mit dem Namen Zeit mit dem Wert 0
+
+Erstelle eine Zahl mit dem Namen Dauer
+
+Erstelle eine Zahl mit dem Namen änderung
+
+Schreib "Gib eine Zahl ein" auf
+
+Gib Eingabe den Wert Mensch Zahl Geschreibsel
+
+Schreib "Gib eine Zahl zum Erreichen ein" auf
+
+Gib änderung den Wert Mensch Zahl Geschreibsel
+
+Gib änderung den Wert änderung minus Eingabe
+
+Schreib "Gib die Zahl der Schritte ein" auf
+
+Gib Dauer den Wert Mensch Zahl Geschreibsel
+
+Schreib "Lineares Tweening:" auf
+
+Gib RechenEingabe den Wert Eingabe
+
+Solange Zeit kleiner als Dauer und 1 ist Wiederhole
+
+Gib RechenEingabe die Summe von änderung mal Zeit geteilt durch Dauer und Eingabe 
+
+Gib Zeit die Summe von Zeit und 1
+
+Schreib RechenEingabe auf
+
+bis hierher
+
+Schreib "" auf
+
+Schreib "Easing In" auf
+
+Gib Zeit den Wert 0
+
+Gib RechenEingabe den Wert Eingabe
+
+Solange Zeit kleiner als Dauer und 1 ist Wiederhole
+
+Gib Zeit den Wert Zeit geteilt durch Dauer
+
+Gib RechenEingabe die Summe von änderung mal Zeit mal Zeit und Eingabe 
+
+Gib Zeit die Summe von Zeit mal Dauer und 1
+
+Schreib RechenEingabe auf
+
+bis hierher
+
+Schreib "" auf
+
+Schreib "Easing Out" auf
+
+Gib Zeit den Wert 0
+
+Gib RechenEingabe den Wert Eingabe
+
+Solange Zeit kleiner als Dauer und 1 ist Wiederhole
+
+Gib Zeit den Wert Zeit geteilt durch Dauer
+
+Gib RechenEingabe die Summe von -änderung mal Zeit mal (Zeit minus 2) und Eingabe 
+
+Gib Zeit die Summe von Zeit mal Dauer und 1
+
+Schreib RechenEingabe auf
+
+bis hierher

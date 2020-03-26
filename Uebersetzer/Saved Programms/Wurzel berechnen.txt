@@ -1,0 +1,25 @@
+Schreib "Gib eine Zahl ein" auf
+
+Erstelle eine Zahl mit dem Namen Eingabe mit dem Wert 0
+
+Gib Eingabe den Wert Mensch Zahl Geschreibsel 
+
+Erstelle eine Zahl mit dem Namen Annäherung mit dem Wert Eingabe geteilt durch 2
+
+Erstelle eine Zahl mit dem Namen Zähler mit dem Wert 0
+
+Solange Zähler nicht das Gleiche wie Annäherung ist Wiederhole
+
+Gib Zähler den Wert Annäherung 
+
+Gib Annäherung den Wert 0.5 mal (Annäherung und Eingabe geteilt durch Annäherung) 
+
+bis hierher
+
+Schreib "Wurzel gefunden!" und Annäherung auf
+
+Schreib "Test " und Annäherung und " * " und Annäherung und " ergibt: " auf
+Schreib Annäherung mal Annäherung auf
+
+
+

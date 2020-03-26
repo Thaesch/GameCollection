@@ -1,0 +1,15 @@
+Schreib "Gib eine beliebige Zahl ein" auf
+
+Erstelle eine Zahl mit dem Namen Zähler mit dem Wert 0
+
+Erstelle eine Zahl mit dem Namen Ulrich
+
+Gib Ulrich den Wert Mensch Zahl Geschreibsel
+
+Solange Zähler kleiner als Ulrich und 1 ist Wiederhole
+
+Schreib Zähler mal 5 auf
+
+Gib Zähler den Wert Zähler und 1
+
+bis hierher

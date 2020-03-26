@@ -1,0 +1,79 @@
+Schreib "Gib ein Jahr ein" auf
+
+Erstelle eine Zahl mit dem Namen Jahr mit dem Wert Mensch Zahl Geschreibsel
+
+Erstelle eine Zahl mit dem Namen Eingabe mit dem Wert Jahr geteilt durch 4
+
+Erstelle eine Zahl mit dem Namen Kommazahl 
+
+Gib Kommazahl den Wert Eingabe
+
+Solange Kommazahl größer als 1 ist Wiederhole
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl gleich wie 1 ist Mach folgendes
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl nicht das Gleiche wie 0 ist Mach folgendes
+
+Schreib "Normales Jahr" auf
+
+Beenden
+
+bis hierher
+
+Gib Eingabe den Wert Jahr geteilt durch 100
+
+Gib Kommazahl den Wert Eingabe
+
+Solange Kommazahl größer als 1 ist Wiederhole
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl gleich wie 1 ist Mach folgendes
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl nicht das Gleiche wie 0 ist Mach folgendes
+
+Schreib "Schaltjahr" auf
+
+Beenden
+
+bis hierher
+
+Gib Eingabe den Wert Jahr geteilt durch 400
+
+Gib Kommazahl den Wert Eingabe
+
+Solange Kommazahl größer als 1 ist Wiederhole
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl gleich wie 1 ist Mach folgendes
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl nicht das Gleiche wie 0 ist Mach folgendes
+
+Schreib "Normales Jahr" auf
+
+Beenden
+
+bis hierher
+
+Schreib "Schaltjahr" auf

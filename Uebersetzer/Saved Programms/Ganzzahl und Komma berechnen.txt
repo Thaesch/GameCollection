@@ -1,0 +1,26 @@
+Schreib "Gib eine Zahl ein" auf
+
+Erstelle eine Zahl mit dem Namen Eingabe mit dem Wert Mensch Zahl Geschreibsel
+
+Erstelle eine Zahl mit dem Namen Kommazahl mit dem Wert Eingabe
+
+Erstelle eine Zahl mit dem Namen Ganzzahl mit dem Wert 0
+
+Solange Kommazahl größer als 1 ist Wiederhole
+
+Gib Ganzzahl die Summe von Ganzzahl und 1
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Falls Kommazahl gleich wie 1 ist Mach folgendes
+
+Gib Ganzzahl die Summe von Ganzzahl und 1
+
+Gib Kommazahl den Wert Kommazahl minus 1
+
+bis hierher
+
+Schreib "Ganzer Wert: " und Ganzzahl auf
+Schreib "Komma Wert: " und Kommazahl auf

@@ -1,0 +1,5 @@
+Schreib "Wie viele cm?" auf
+
+Erstelle eine Zahl mit dem Namen Umgerechnet mit dem Wert 0.393701 mal Mensch Zahl Geschreibsel
+
+Schreib "Das sind " und Umgerechnet und "  Zoll." auf

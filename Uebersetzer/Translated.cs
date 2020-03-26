@@ -1,0 +1,1 @@
+using System;namespace AwesomeSauce{class NewClass{  public NewClass(){  }public static void Main(string[] args){ Console.WriteLine("Program Starts...");  NewClass Program = new NewClass(); Program.Start();} public void Start(){ Random rnd = new Random(); try{ Console.WriteLine(  10 );}catch(Exception e){Console.WriteLine(e.StackTrace);} Console.ReadKey();}  } }
