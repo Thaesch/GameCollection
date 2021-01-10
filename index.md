@@ -2,7 +2,7 @@
 
 ## Flow field following
 
- <video width="320" height="240" controls>
+ <video controls>
   <source src="Flow.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
@@ -15,15 +15,12 @@ Your browser does not support the video tag.
 
 ## Rope Physics
 
+![Perlin noise Image](RopeBehaviour.png "Perlin Noise Image")
 
- <video width="320" height="240" controls>
-  <source src="RopePhysics.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
 
 ## Platforming Project
 
- <video width="320" height="240" controls>
+ <video  controls>
   <source src="Plattformer%20Prototype.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
