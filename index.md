@@ -9,6 +9,8 @@ Your browser does not support the video tag.
 
 ## Maze Generation
 
+video/image in process...
+
 ## Perlin Noise Flow Field
 
 ![Perlin noise Image](PerlinNoise.png "Perlin Noise Image")
