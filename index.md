@@ -25,3 +25,5 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video> 
 ## Translator
+
+![Perlin noise Image](FriskyBanjo2.png "Perlin Noise Image")
