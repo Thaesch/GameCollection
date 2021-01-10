@@ -2,7 +2,7 @@
 
 ## Flow field following
 
- <video controls>
+ <video width="480" height="320" controls>
   <source src="Flow.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
@@ -20,7 +20,7 @@ Your browser does not support the video tag.
 
 ## Platforming Project
 
- <video  controls>
+ <video width="480" height="320"  controls>
   <source src="Plattformer%20Prototype.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
