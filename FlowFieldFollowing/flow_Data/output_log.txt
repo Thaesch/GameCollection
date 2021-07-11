@@ -4,27 +4,27 @@ Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
     Renderer: AMD Radeon R9 200 Series (ID=0x6798)
     Vendor:   ATI
-    VRAM:     3052 MB
-    Driver:   26.20.13003.1007
+    VRAM:     3051 MB
+    Driver:   27.20.15003.1004
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.134 seconds
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\GameCollection\FlowFieldFollowing\flow_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.259 seconds
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\AllProjects\GameCollection\FlowFieldFollowing\flow_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3456x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.955000 ms
+UnloadTime: 1.399100 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3428 -> priority: 1 
-  Thread -> id: 32a4 -> priority: 1 
+  Thread -> id: 36d8 -> priority: 1 
+  Thread -> id: 4d28 -> priority: 1 

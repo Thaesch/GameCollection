@@ -22,13 +22,13 @@
     </TeleportPosition>
     <Facing>1</Facing>
     <Velocity>
-      <X>0.803995</X>
+      <X>-0.965214968</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>792.804</X>
+      <X>791.0348</X>
       <Y>295</Y>
     </Position>
     <AnimName>jump</AnimName>
@@ -46,275 +46,15 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>1.690085</X>
-      <Y>0.6309753</Y>
+      <X>-2.00386</X>
+      <Y>0.757500768</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>794.4941</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>1</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>2.46010518</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>796.954163</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>2</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>3.30082</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>800.255</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>3</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>4.16962528</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>804.4246</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>4</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>4.95981026</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>809.38446</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>5</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>5.83444548</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>815.218933</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>6</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>5.83444548</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>819.418335</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>7</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>4.19937563</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>821.954651</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>8</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>2.53632545</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>821.954651</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>idle</AnimName>
-    <AnimFrame>0</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>0</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>821.954651</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>idle</AnimName>
-    <AnimFrame>0</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>-0.86171</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>821.092957</X>
+      <X>789.030945</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -334,13 +74,13 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-1.65896</X>
+      <X>-2.513355</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>819.434</X>
+      <X>786.5176</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -360,13 +100,13 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-2.48819</X>
+      <X>-3.455985</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>816.9458</X>
+      <X>783.0616</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -386,13 +126,13 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-3.35638</X>
+      <X>-4.106895</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>813.5894</X>
+      <X>778.9547</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -412,13 +152,13 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-4.152145</X>
+      <X>-4.970025</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>809.437256</X>
+      <X>773.9847</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -438,13 +178,13 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-5.02346</X>
+      <X>-5.7596</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>804.4138</X>
+      <X>768.2251</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -464,13 +204,13 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-5.81916475</X>
+      <X>-6.80836</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>798.594666</X>
+      <X>761.416748</X>
       <Y>295</Y>
     </Position>
     <AnimName>run</AnimName>
@@ -478,7 +218,7 @@
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -490,125 +230,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-6.66043</X>
+      <X>-7.587545</X>
       <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>791.934265</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>8</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-7.5478</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>784.3865</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>9</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-8.40989</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>775.976563</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>10</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-9.23510551</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>766.741455</X>
-      <Y>295</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>11</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-10.01513</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>756.7263</X>
-      <Y>295.612152</Y>
+      <X>753.8292</X>
+      <Y>299.586273</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>1</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -620,21 +256,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-10.82275</X>
-      <Y>0.612163663</Y>
+      <X>-8.55972</X>
+      <Y>4.586283</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>745.903564</X>
-      <Y>296.858124</Y>
+      <X>745.269531</X>
+      <Y>309.894775</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>2</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -646,21 +282,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-11.68203</X>
-      <Y>1.24598384</Y>
+      <X>-8.55972</X>
+      <Y>10.308506</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>734.221558</X>
-      <Y>298.778473</Y>
+      <X>738.0359</X>
+      <Y>324.105835</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>3</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -672,21 +308,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.48065</X>
-      <Y>1.92034686</Y>
+      <X>-7.23367</X>
+      <Y>14.211071</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>722.221558</X>
-      <Y>301.325562</Y>
+      <X>732.6815</X>
+      <Y>343.847656</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>4</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -698,21 +334,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8673449</X>
-      <Y>2.547104</Y>
+      <X>-5.35438</X>
+      <Y>19.7418213</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>710.221558</X>
-      <Y>304.553345</Y>
+      <X>728.857361</X>
+      <Y>368.092926</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>5</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -724,21 +360,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8207645</X>
-      <Y>3.22779632</Y>
+      <X>-3.82416</X>
+      <Y>24.2452583</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>698.221558</X>
-      <Y>308.425262</Y>
+      <X>726.5889</X>
+      <Y>396.592926</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>6</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -750,21 +386,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8100147</X>
-      <Y>3.87193274</Y>
+      <X>-2.26843</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>686.221558</X>
-      <Y>312.9329</Y>
+      <X>726.5889</X>
+      <Y>425.092926</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>7</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -776,21 +412,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.86882</X>
-      <Y>4.50763273</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>674.221558</X>
-      <Y>318.122375</Y>
+      <X>726.5889</X>
+      <Y>453.592926</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>8</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -802,14 +438,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.80146</X>
-      <Y>5.18948269</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>662.221558</X>
-      <Y>323.940857</Y>
+      <X>726.5889</X>
+      <Y>482.092926</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>9</AnimFrame>
@@ -828,14 +464,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8636</X>
-      <Y>5.81846857</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>650.221558</X>
-      <Y>334.842468</Y>
+      <X>726.5889</X>
+      <Y>510.592926</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>10</AnimFrame>
@@ -854,14 +490,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8163252</X>
-      <Y>10.901619</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>638.221558</X>
-      <Y>350.548981</Y>
+      <X>726.5889</X>
+      <Y>539.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>11</AnimFrame>
@@ -880,14 +516,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.84952</X>
-      <Y>15.7065086</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>626.221558</X>
-      <Y>371.255768</Y>
+      <X>726.5889</X>
+      <Y>567.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>12</AnimFrame>
@@ -906,14 +542,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8508</X>
-      <Y>20.7067833</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>614.221558</X>
-      <Y>396.970367</Y>
+      <X>726.5889</X>
+      <Y>596.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>13</AnimFrame>
@@ -932,14 +568,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.79492</X>
-      <Y>25.714592</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>602.221558</X>
-      <Y>425.470367</Y>
+      <X>726.5889</X>
+      <Y>624.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>14</AnimFrame>
@@ -958,14 +594,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.86576</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>590.221558</X>
-      <Y>453.970367</Y>
+      <X>726.5889</X>
+      <Y>653.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>15</AnimFrame>
@@ -984,14 +620,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.81299</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>578.221558</X>
-      <Y>482.470367</Y>
+      <X>726.5889</X>
+      <Y>681.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>16</AnimFrame>
@@ -1010,14 +646,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.83696</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>566.221558</X>
-      <Y>510.970367</Y>
+      <X>726.5889</X>
+      <Y>710.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>17</AnimFrame>
@@ -1036,14 +672,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.85548</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>554.221558</X>
-      <Y>539.470337</Y>
+      <X>726.5889</X>
+      <Y>738.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>18</AnimFrame>
@@ -1062,14 +698,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.794755</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>542.221558</X>
-      <Y>567.970337</Y>
+      <X>726.5889</X>
+      <Y>767.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>19</AnimFrame>
@@ -1088,14 +724,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.87528</X>
+      <X>-0.80289495</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>530.221558</X>
-      <Y>596.470337</Y>
+      <X>725.786</X>
+      <Y>795.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>20</AnimFrame>
@@ -1114,14 +750,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.79758</X>
+      <X>-1.57154</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>518.221558</X>
-      <Y>624.970337</Y>
+      <X>724.2145</X>
+      <Y>824.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>21</AnimFrame>
@@ -1140,14 +776,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8290348</X>
+      <X>-2.612395</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>506.221558</X>
-      <Y>653.470337</Y>
+      <X>721.6021</X>
+      <Y>852.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>22</AnimFrame>
@@ -1166,14 +802,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.8907547</X>
+      <X>-3.331995</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>504</X>
-      <Y>681.970337</Y>
+      <X>718.270142</X>
+      <Y>881.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>23</AnimFrame>
@@ -1192,14 +828,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-12.7906647</X>
+      <X>-4.300215</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>504</X>
-      <Y>710.470337</Y>
+      <X>713.9699</X>
+      <Y>909.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>24</AnimFrame>
@@ -1218,14 +854,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-0.858245</X>
+      <X>-5.01227951</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>504</X>
-      <Y>738.970337</Y>
+      <X>708.957642</X>
+      <Y>938.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>25</AnimFrame>
@@ -1244,14 +880,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-0.797700047</X>
+      <X>-5.9635644</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>503.2023</X>
-      <Y>767.470337</Y>
+      <X>702.9941</X>
+      <Y>966.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>26</AnimFrame>
@@ -1270,14 +906,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-1.63176</X>
+      <X>-6.58586931</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>501.570526</X>
-      <Y>795.970337</Y>
+      <X>696.4082</X>
+      <Y>995.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>27</AnimFrame>
@@ -1296,14 +932,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-2.499205</X>
+      <X>-7.4730444</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>499.07132</X>
-      <Y>824.470337</Y>
+      <X>688.9352</X>
+      <Y>1023.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>28</AnimFrame>
@@ -1322,14 +958,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-3.29805517</X>
+      <X>-7.4730444</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>495.773254</X>
-      <Y>852.970337</Y>
+      <X>683.012268</X>
+      <Y>1052.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>29</AnimFrame>
@@ -1348,14 +984,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-4.16789</X>
+      <X>-5.92288446</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>491.605377</X>
-      <Y>881.470337</Y>
+      <X>678.8727</X>
+      <Y>1080.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>30</AnimFrame>
@@ -1374,14 +1010,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-4.96913528</X>
+      <X>-4.13958454</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>486.63623</X>
-      <Y>909.970337</Y>
+      <X>676.4037</X>
+      <Y>1109.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>31</AnimFrame>
@@ -1400,14 +1036,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-5.8017</X>
+      <X>-2.46897459</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>480.834534</X>
-      <Y>938.470337</Y>
+      <X>676.4037</X>
+      <Y>1137.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>32</AnimFrame>
@@ -1426,14 +1062,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-6.67217</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>474.162354</X>
-      <Y>966.970337</Y>
+      <X>676.4037</X>
+      <Y>1166.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>33</AnimFrame>
@@ -1452,14 +1088,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-7.467635</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>466.694733</X>
-      <Y>995.470337</Y>
+      <X>676.4037</X>
+      <Y>1194.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>34</AnimFrame>
@@ -1478,14 +1114,14 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-8.35378551</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>458.340942</X>
-      <Y>1015</Y>
+      <X>676.4037</X>
+      <Y>1223.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>35</AnimFrame>
@@ -1504,1217 +1140,21 @@
     </TeleportPosition>
     <Facing>-1</Facing>
     <Velocity>
-      <X>-9.1539</X>
+      <X>0</X>
       <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>449.187042</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>1</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-9.981835</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>439.2052</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>2</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-10.84513</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>428.360077</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>3</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-11.648735</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>416.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>4</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.50909</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>404.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>5</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.80061</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>392.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>6</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.84194</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>380.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>7</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.85987</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>368.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>8</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.800705</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>356.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>9</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.86816</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>344.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>10</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.8007946</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>332.711334</X>
-      <Y>1015</Y>
-    </Position>
-    <AnimName>run</AnimName>
-    <AnimFrame>11</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.91001</X>
-      <Y>0</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>320.711334</X>
-      <Y>1015.71417</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>1</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.89077</X>
-      <Y>0.7141759</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>308.711334</X>
-      <Y>1017.12744</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>2</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.8221054</X>
-      <Y>1.41325212</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>296.711334</X>
-      <Y>1019.18585</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>3</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.8742247</X>
-      <Y>2.05844021</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>284.711334</X>
-      <Y>1021.93036</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>4</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.75126</X>
-      <Y>2.744532</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>272.711334</X>
-      <Y>1025.26453</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>5</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.84499</X>
-      <Y>3.334121</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>260.711334</X>
-      <Y>1029.26184</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>6</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12.87131</X>
-      <Y>3.99726915</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>248.711334</X>
-      <Y>1033.94287</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>7</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-12</X>
-      <Y>4.681073</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>238.191818</X>
-      <Y>1039.20483</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>8</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-10.51952</X>
-      <Y>5.26201344</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>229.404114</X>
-      <Y>1045.14636</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>9</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-8.7877</X>
-      <Y>5.94158</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>222.333878</X>
-      <Y>1051.76184</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>10</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-7.07022953</X>
-      <Y>6.615515</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>216.8855</X>
-      <Y>1059.01379</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>11</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-3.6576395</X>
-      <Y>7.25192928</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>216</X>
-      <Y>1066.96838</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>12</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-0.30240944</X>
-      <Y>7.95461559</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>216</X>
-      <Y>1075.53687</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>13</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>0.909364939</X>
-      <Y>8.5685215</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>216.909363</X>
-      <Y>1084.81909</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>14</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>1.6962899</X>
-      <Y>9.282191</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>218.605652</X>
-      <Y>1094.71887</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>15</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>2.54853487</X>
-      <Y>9.89977</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>221.15419</X>
-      <Y>1105.28748</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>16</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>3.34060478</X>
-      <Y>10.5686121</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>224.4948</X>
-      <Y>1116.47766</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>17</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>3.34060478</X>
-      <Y>11.1902285</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>226.267365</X>
-      <Y>1128.2832</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>18</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>1.77257478</X>
-      <Y>11.8055239</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>226.267365</X>
-      <Y>1140.77722</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>19</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>0</X>
-      <Y>12.4940052</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>226.267365</X>
-      <Y>1153.886</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>20</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>0</X>
-      <Y>13.10872</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>226.267365</X>
-      <Y>1167.67871</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>21</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>-0.89806</X>
-      <Y>13.7926884</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>225.369308</X>
-      <Y>1182.17615</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>22</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-1.664575</X>
-      <Y>14.4974861</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>223.704727</X>
-      <Y>1197.27515</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>23</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-2.56813</X>
-      <Y>15.0990467</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>221.1366</X>
-      <Y>1213.08325</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>24</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-3.33291</X>
-      <Y>15.808157</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>217.80368</X>
-      <Y>1229.49158</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>25</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-4.18751526</X>
-      <Y>16.4083557</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>213.616165</X>
-      <Y>1246.57068</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>26</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-5.07565546</X>
-      <Y>17.07905</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>208.540512</X>
-      <Y>1264.34668</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>27</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-5.88310528</X>
-      <Y>17.776062</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>202.65741</X>
-      <Y>1282.75647</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>28</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-6.762265</X>
-      <Y>18.4097481</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>195.895142</X>
-      <Y>1301.8562</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>29</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-6.762265</X>
-      <Y>19.0997124</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>190.6526</X>
-      <Y>1321.55225</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>30</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-5.242535</X>
-      <Y>19.6960545</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>187.097473</X>
-      <Y>1341.55225</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>31</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-3.55512524</X>
-      <Y>20</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>185.182755</X>
-      <Y>1361.55225</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>32</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>-1.91471529</X>
-      <Y>20</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>185.182755</X>
-      <Y>1381.55225</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>33</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>0</X>
-      <Y>20</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>185.182755</X>
-      <Y>1401.55225</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>34</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>0</X>
-      <Y>20</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>185.182755</X>
-      <Y>1421.55225</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>35</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-1</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>-1</Facing>
-    <Velocity>
-      <X>0.84763</X>
-      <Y>20</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>186.03038</X>
-      <Y>1441.55225</Y>
+      <X>676.4037</X>
+      <Y>1251.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>36</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2724,23 +1164,23 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>1.74963</X>
-      <Y>20</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>187.780014</X>
-      <Y>1461.55225</Y>
+      <X>676.4037</X>
+      <Y>1280.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>37</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2750,23 +1190,23 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>2.519105</X>
-      <Y>20</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>190.299118</X>
-      <Y>1481.55225</Y>
+      <X>676.4037</X>
+      <Y>1308.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>38</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2776,23 +1216,23 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>3.40206981</X>
-      <Y>20</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>193.701187</X>
-      <Y>1501.55225</Y>
+      <X>676.4037</X>
+      <Y>1337.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>39</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2802,23 +1242,23 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>4.191815</X>
-      <Y>20</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>197.893</X>
-      <Y>1521.55225</Y>
+      <X>676.4037</X>
+      <Y>1365.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>40</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2828,23 +1268,23 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>5.062055</X>
-      <Y>20</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>202.955063</X>
-      <Y>1541.55225</Y>
+      <X>676.4037</X>
+      <Y>1394.0929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>41</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2854,23 +1294,335 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>5.89109039</X>
-      <Y>20</Y>
+      <X>0</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>208.846161</X>
-      <Y>1561.55225</Y>
+      <X>676.4037</X>
+      <Y>1422.5929</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>42</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1451.0929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>43</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1479.5929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>44</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1508.0929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>45</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1536.5929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>46</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1565.0929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>47</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1593.5929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>48</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1622.0929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>49</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1650.5929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>50</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1679.0929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>51</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1707.5929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>52</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>0</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>676.4037</X>
+      <Y>1736.0929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>53</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.94993</X>
+      <Y>28.5</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>675.453735</X>
+      <Y>1764.5929</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>54</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
@@ -2880,513 +1632,617 @@
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>6.64852047</X>
-      <Y>20</Y>
+      <X>-1.65539</X>
+      <Y>28.5</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>230.599274</X>
-      <Y>1549.23145</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>43</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.184851408</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>22.6100521</X>
-      <Y>-12.3208075</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>252.352386</X>
-      <Y>1536.91064</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>44</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.16771251</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>22.5531769</X>
-      <Y>-12.3208075</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>274.1055</X>
-      <Y>1524.58984</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>45</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.1517111</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>22.6409779</X>
-      <Y>-12.3208075</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>295.8586</X>
-      <Y>1512.269</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>46</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.1339537</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>22.6340618</X>
-      <Y>-12.3208075</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>317.611725</X>
-      <Y>1499.94824</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>47</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.1163346</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>22.5250168</X>
-      <Y>-12.3208075</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>337.8785</X>
-      <Y>1488.46924</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>48</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.1008964</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>21.1599922</X>
-      <Y>-11.4789639</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>356.466156</X>
-      <Y>1477.94128</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>49</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.0830322057</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>19.3604927</X>
-      <Y>-10.5279083</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>373.110779</X>
-      <Y>1468.51392</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>50</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.0675751045</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>17.4802647</X>
-      <Y>-9.4274025</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>388.074219</X>
-      <Y>1460.0387</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>51</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.0508624054</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>15.8683691</X>
-      <Y>-8.475182</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>401.219879</X>
-      <Y>1452.59314</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>52</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.0327636078</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>13.9234838</X>
-      <Y>-7.445612</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>412.397</X>
-      <Y>1446.26245</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>53</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>0.017207209</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.1536837</X>
-      <Y>-6.33065271</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>421.882141</X>
-      <Y>1440.89014</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>54</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>10.154664</X>
-      <Y>-5.372316</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>432.0368</X>
-      <Y>1436.04321</Y>
+      <X>657.7717</X>
+      <Y>1746.91956</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>55</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.185890809</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>10.9853888</X>
-      <Y>-4.846873</Y>
+      <X>-18.7375965</X>
+      <Y>-17.6733532</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>443.0222</X>
-      <Y>1431.84827</Y>
+      <X>640.0897</X>
+      <Y>1729.24622</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>56</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.1647786</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>11.8203135</X>
-      <Y>-4.19491959</Y>
+      <X>-18.3739262</X>
+      <Y>-17.6733532</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>454.8425</X>
-      <Y>1428.30859</Y>
+      <X>622.4077</X>
+      <Y>1711.57288</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>57</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.1509398</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.6192188</X>
-      <Y>-3.53967047</Y>
+      <X>-18.44516</X>
+      <Y>-17.6733532</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>466.8425</X>
-      <Y>1425.39587</Y>
+      <X>604.7257</X>
+      <Y>1693.89954</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>58</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.135676309</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.8487654</X>
-      <Y>-2.91268969</Y>
+      <X>-18.4690456</X>
+      <Y>-17.6733532</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>478.8425</X>
-      <Y>1423.14929</Y>
+      <X>587.0437</X>
+      <Y>1676.2262</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>59</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.11993511</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.80508</X>
-      <Y>-2.246579</Y>
+      <X>-18.4870052</X>
+      <Y>-17.6733532</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>490.8425</X>
-      <Y>1421.53455</Y>
+      <X>570.2515</X>
+      <Y>1659.44226</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>60</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.103834711</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.8342848</X>
-      <Y>-1.614752</Y>
+      <X>-17.570076</X>
+      <Y>-16.78395</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>502.8425</X>
-      <Y>1420.57458</Y>
+      <X>554.8828</X>
+      <Y>1644.081</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>61</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
+    <FastFall>true</FastFall>
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>0.08827621</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.8665752</X>
-      <Y>-0.960005164</Y>
+      <X>-16.22202</X>
+      <Y>-15.36121</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>514.8425</X>
-      <Y>1420.29468</Y>
+      <X>540.889648</X>
+      <Y>1630.09473</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>0</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>0.07121011</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-14.860754</X>
+      <Y>-13.9863567</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>528.4053</X>
+      <Y>1617.61646</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>1</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>0.05385881</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-13.3986855</X>
+      <Y>-12.4782791</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>517.4549</X>
+      <Y>1606.67151</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>2</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>0.03557261</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-11.7165937</X>
+      <Y>-10.9450016</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>508.121216</X>
+      <Y>1597.34241</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>3</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>0.02024771</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-10.2277622</X>
+      <Y>-9.329109</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1589.36755</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>4</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>true</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>0.0023658108</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-8.7623</X>
+      <Y>-7.974898</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1583.18188</Y>
+    </Position>
+    <AnimName>jump</AnimName>
+    <AnimFrame>5</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-7.084855</X>
+      <Y>-6.185673</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1578.701</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>1</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.778045</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1574.81079</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>2</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.874245</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1570.43958</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>3</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.789885044</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1566.49011</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>4</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-1.097195</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1561.00415</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>5</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.698320031</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1557.51257</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>6</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.82478</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1553.38867</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>7</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.70600003</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1549.85864</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>8</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.90629</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>504</X>
+      <Y>1545.32715</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>9</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>true</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.807425</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>500.366577</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>climb</AnimName>
+    <AnimFrame>10</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>true</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-0.0156701</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-0.86492</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>499.501648</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>1</AnimFrame>
     <FlipX>false</FlipX>
     <NumJumps>1</NumJumps>
     <GravShift>false</GravShift>
@@ -3394,22 +2250,542 @@
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>-1</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.8006754</X>
-      <Y>-0.279917061</Y>
+      <X>-1.63064</X>
+      <Y>0</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>526.8425</X>
-      <Y>1420.64319</Y>
+      <X>497.871</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>2</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-2.56675</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>495.30426</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>3</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-3.29068</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>492.01358</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>4</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-4.21532</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>487.798248</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>5</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-4.96399</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>482.834259</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>6</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-5.89216</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>476.9421</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>7</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-6.628795</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>470.313324</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>8</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-7.57548</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>462.737854</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>9</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-8.30968</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>454.428162</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>10</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-9.36738</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>445.0608</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>11</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-10.09112</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>434.969666</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>12</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-11.0944643</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>423.8752</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>13</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-11.8001347</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>412.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>14</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.6006851</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>400.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>15</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.73838</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>388.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>16</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.9370747</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>376.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>17</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.72595</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>364.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>18</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.9536753</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>352.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>19</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.7071247</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>340.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>20</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.92794</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>328.075073</X>
+      <Y>1519</Y>
+    </Position>
+    <AnimName>run</AnimName>
+    <AnimFrame>21</AnimFrame>
+    <FlipX>false</FlipX>
+    <NumJumps>1</NumJumps>
+    <GravShift>false</GravShift>
+    <FastFall>false</FastFall>
+    <LedgeHang>false</LedgeHang>
+    <LedgeClimb>false</LedgeClimb>
+    <GroundDash>0</GroundDash>
+    <AirDash>-1</AirDash>
+    <TeleportActive>false</TeleportActive>
+    <TeleportPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </TeleportPosition>
+    <Facing>-1</Facing>
+    <Velocity>
+      <X>-12.74135</X>
+      <Y>0</Y>
+    </Velocity>
+  </PlayerTimeObject>
+  <PlayerTimeObject>
+    <Position>
+      <X>316.075073</X>
+      <Y>1519.58179</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>1</AnimFrame>
@@ -3420,22 +2796,22 @@
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>-1</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.8714752</X>
-      <Y>0.3484527</Y>
+      <X>-12.9323654</X>
+      <Y>0.5818115</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>538.8425</X>
-      <Y>1421.67554</Y>
+      <X>304.075073</X>
+      <Y>1520.89526</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>2</AnimFrame>
@@ -3446,22 +2822,22 @@
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>-1</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.8090553</X>
-      <Y>1.0323863</Y>
+      <X>-12.7633553</X>
+      <Y>1.31353164</Y>
     </Velocity>
   </PlayerTimeObject>
   <PlayerTimeObject>
     <Position>
-      <X>550.8425</X>
-      <Y>1423.3429</Y>
+      <X>292.075073</X>
+      <Y>1522.80786</Y>
     </Position>
     <AnimName>jump</AnimName>
     <AnimFrame>3</AnimFrame>
@@ -3472,432 +2848,16 @@
     <LedgeHang>false</LedgeHang>
     <LedgeClimb>false</LedgeClimb>
     <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
+    <AirDash>-1</AirDash>
     <TeleportActive>false</TeleportActive>
     <TeleportPosition>
       <X>0</X>
       <Y>0</Y>
     </TeleportPosition>
-    <Facing>1</Facing>
+    <Facing>-1</Facing>
     <Velocity>
-      <X>12.83922</X>
-      <Y>1.66733265</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>562.8425</X>
-      <Y>1425.66882</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>4</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.85578</X>
-      <Y>2.32595253</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>574.8425</X>
-      <Y>1428.66638</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>5</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.8002253</X>
-      <Y>2.99756861</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>586.8425</X>
-      <Y>1432.292</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>6</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>false</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.8661346</X>
-      <Y>3.62558532</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>598.8425</X>
-      <Y>1436.59729</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>7</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.829155</X>
-      <Y>4.30532837</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>610.8425</X>
-      <Y>1445.78308</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>8</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.81198</X>
-      <Y>9.185736</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>622.8425</X>
-      <Y>1459.74817</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>9</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.85492</X>
-      <Y>13.96505</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>634.8425</X>
-      <Y>1478.74524</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>10</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.8068447</X>
-      <Y>18.9971085</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>646.8425</X>
-      <Y>1502.49146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>11</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12.86487</X>
-      <Y>23.7461987</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>658.8425</X>
-      <Y>1530.99146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>12</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>12</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>669.2343</X>
-      <Y>1559.49146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>13</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>10.3918</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>677.960266</X>
-      <Y>1587.99146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>14</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>8.72598</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>684.9441</X>
-      <Y>1616.49146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>15</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>6.9838</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>690.3102</X>
-      <Y>1644.99146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>16</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>5.36606026</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>693.9535</X>
-      <Y>1673.49146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>17</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>3.64330029</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>695.992859</X>
-      <Y>1701.99146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>18</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>2.03936028</X>
-      <Y>28.5</Y>
-    </Velocity>
-  </PlayerTimeObject>
-  <PlayerTimeObject>
-    <Position>
-      <X>695.992859</X>
-      <Y>1730.49146</Y>
-    </Position>
-    <AnimName>jump</AnimName>
-    <AnimFrame>19</AnimFrame>
-    <FlipX>false</FlipX>
-    <NumJumps>1</NumJumps>
-    <GravShift>false</GravShift>
-    <FastFall>true</FastFall>
-    <LedgeHang>false</LedgeHang>
-    <LedgeClimb>false</LedgeClimb>
-    <GroundDash>0</GroundDash>
-    <AirDash>-0.0023236908</AirDash>
-    <TeleportActive>false</TeleportActive>
-    <TeleportPosition>
-      <X>0</X>
-      <Y>0</Y>
-    </TeleportPosition>
-    <Facing>1</Facing>
-    <Velocity>
-      <X>0</X>
-      <Y>28.5</Y>
+      <X>-12.9098349</X>
+      <Y>1.91261268</Y>
     </Velocity>
   </PlayerTimeObject>
 </ArrayOfPlayerTimeObject>
